@@ -1,1 +1,2 @@
 Pushing code into repository
+2 new commands push and pull
